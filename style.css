@@ -275,3 +275,56 @@ footer a:hover {
         margin: 3px;
     }
 }
+
+#love-gift {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+#love-gift h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+#love-gift p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.bank-account {
+  margin-top: 30px;
+}
+
+.bank {
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.bank h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.account-number, .account-name {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.copy-btn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.copy-btn:hover {
+  background-color: #45a049;
+}
